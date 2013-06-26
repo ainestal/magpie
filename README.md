@@ -1,4 +1,4 @@
 magpie
 ======
 
-EMR Cut Cost Tool
+AWS Cost Cutting Tool
