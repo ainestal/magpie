@@ -26,10 +26,10 @@
             ....,I$Z$$ZDDDZ,...    :,.. ..       .8 .  .D..            .       
         ....,$O7778$DO8+.....,.,,..~.,.:,..  ... .D=  ...8...   ..    . ..    .
          7OZ$$ZDZNZN~...........:.=,.........,.,..$D. =Z=$7..   .. .......    .
-  ...ZOO88DDZDO~ . .......,~..~=,~:~:.,,,.,:.,.:~,,D8DON,~D$.D+,?.,,,,..,,,....
-   $D$I~.........       .....,~........,...:~:7.8I~~:.I?:~O8OO$D =  .:.~..,,..  
-                     .. . ..... ..,,..........,.,..,,,..... .......  .......    
-                     ..  ..  .. . ... .....  .. .    ... ...   ..   ....  .     
+    ...ZOO88DDZDO~ . .......,~..~=,~:~:.,,,.,:.,.:~,,D8DON,~D$.D+,?.,,,,..,,,....
+    $D$I~.........       .....,~........,...:~:7.8I~~:.I?:~O8OO$D =  .:.~..,,..  
+                      .. . ..... ..,,..........,.,..,,,..... .......  .......    
+                      ..  ..  .. . ... .....  .. .    ... ...   ..   ....  .     
 ###############################################################################
 Copyright 2013 Alejandro Inestal and Stijn Beauprez
 
@@ -37,7 +37,7 @@ Copyright 2013 Alejandro Inestal and Stijn Beauprez
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
@@ -50,3 +50,7 @@ magpie
 ======
 
 AWS Cost Cutting Tool
+
+Clone this repository then run:
+
+    # python setup.py install
