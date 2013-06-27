@@ -7,6 +7,8 @@ import logging
 import sys
 import argparse
 
+from core import Magpie
+
 __all__ = ('run',)
 log = logging.getLogger(__name__)
 
@@ -20,6 +22,8 @@ def run():
         logging.basicConfig(level=logging.DEBUG)
     else:
         logging.basicConfig()
-    print('this is a test')
-    sys.exit()
-    # sys.exit(Magpie(debug=args.debug).sync())
+        
+    sys.exit(Magpie(debug=args.debug).sync())
+
+if __name__ == '__main__':
+    run()
